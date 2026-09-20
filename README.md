@@ -392,6 +392,8 @@
   - [samchon - safe-typeorm](https://github.com/samchon/safe-typeorm)
 - [RobinBuschmann - sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript)
 - [MikroORM](https://github.com/mikro-orm/mikro-orm)
+- [@m2k-5f/pgtx](https://github.com/M2Kc-s4/pgtx) - Blazingly fast and type-safe PostgreSQL driver for Node.js and Bun.
+
 
 ### Server
 
